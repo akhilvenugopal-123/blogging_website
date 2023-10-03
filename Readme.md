@@ -17,7 +17,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository :
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/akhilvenugopal-123/blogging_website>
    cd Blogging_Website
 
 2. Navigate to  the frontend directory :
