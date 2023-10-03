@@ -1,0 +1,91 @@
+/* blogDetailStyle.css */
+
+/* Style for the main container */
+.container {
+    max-width: 85%;
+    margin: 0 auto;
+    padding: 20px;
+    margin-left: 10px;
+    
+  }
+  
+  /* Style for the blog post title */
+  h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    margin-left: 10px;
+  }
+  
+  /* Style for the blog post content */
+  p {
+    font-size: 16px;
+    color: #666;
+    margin-left: 10px;
+    
+  }
+
+  .print_comment{
+
+    font-size: 12px;
+  }
+  
+  /* Style for the comments section */
+  .comments {
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 12px;
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    color: #333;
+  }
+  
+  /* Style for the comment input fields and button */
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 80%;
+    padding: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 12px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-bottom: 10px;
+   
+  }
+  
+  button:hover {
+    background-color: #c79671;
+  }
+  
+  /* Style for the "Back" button */
+  .back-button {
+    background-color: #dfbd81;
+    color: #333;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  .back-button:hover {
+    background-color: #9ac4d4;
+  }
+  

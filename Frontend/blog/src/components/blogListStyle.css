@@ -1,0 +1,54 @@
+/* blogListStyle.css */
+
+/* Style for the main container */
+.container {
+    max-width: 85%; 
+    margin: 0 auto;
+    padding: 50px;
+  }
+  
+  
+  
+  /* Style for individual blog posts */
+  .blog-posts {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+    
+  }
+  
+  .blog-post:hover {
+    background-color: #e0e0e0;
+  }
+  
+  /* Style for blog post title */
+  .blog-post h3 {
+    font-size: 20px;
+    color: #333;
+    margin: 0;
+  }
+  
+  /* Style for blog post excerpt */
+  .blog-post p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  /* Style for the "View" button */
+  .btn-info {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-info:hover {
+    background-color: #0056b3;
+  }
+  
